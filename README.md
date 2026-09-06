@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhavana Ghule
+# Hi!!!, I'm Bhavana Ghule
 
 ### ☁️ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Kubernetes
 
