@@ -87,7 +87,7 @@ Hands-on projects involving:
 * Terraform infrastructure
 * Ansible automation
 * Jenkins CI/CD
-
+* ArgoCD
 ---
 
 ## 📚 Currently Learning
